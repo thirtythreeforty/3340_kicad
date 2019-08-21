@@ -4,6 +4,10 @@ $CMP ADXL345
 D Accelerometer
 $ENDCMP
 #
+$CMP BH1730FVC
+F https://datasheet.lcsc.com/szlcsc/ROHM-Semicon-BH1730FVC-TR_C79616.pdf
+$ENDCMP
+#
 $CMP DW01A-G
 D Li-Ion Battery Protection IC
 F https://datasheet.lcsc.com/szlcsc/Fortune-Semicon-DW01A-G_C61503.pdf
