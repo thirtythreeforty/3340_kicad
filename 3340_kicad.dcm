@@ -4,4 +4,8 @@ $CMP JW5211
 F https://datasheet.lcsc.com/szlcsc/1903011605_JoulWatt-Tech-JW5211_C371423.pdf
 $ENDCMP
 #
+$CMP SPV1040
+F https://www.st.com/resource/en/datasheet/spv1040.pdf
+$ENDCMP
+#
 #End Doc Library
