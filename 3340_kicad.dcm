@@ -1,7 +1,26 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADXL345
+D Accelerometer
+$ENDCMP
+#
+$CMP DW01A-G
+D Li-Ion Battery Protection IC
+F https://datasheet.lcsc.com/szlcsc/Fortune-Semicon-DW01A-G_C61503.pdf
+$ENDCMP
+#
 $CMP JW5211
 F https://datasheet.lcsc.com/szlcsc/1903011605_JoulWatt-Tech-JW5211_C371423.pdf
+$ENDCMP
+#
+$CMP MT3540
+D Step-up Converter, 1.5A, up-to-28V, 1.2MHz
+F https://datasheet.lcsc.com/szlcsc/XI-AN-Aerosemi-Tech-MT3540_C181744.pdf
+$ENDCMP
+#
+$CMP MT3540-F23
+D Step-up Converter, 1.5A, up-to-28V, 1.2MHz (1.23 FB voltage)
+F https://datasheet.lcsc.com/szlcsc/XI-AN-Aerosemi-Tech-MT3540-F23_C181783.pdf
 $ENDCMP
 #
 $CMP SPV1040
