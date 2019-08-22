@@ -27,6 +27,10 @@ D Step-up Converter, 1.5A, up-to-28V, 1.2MHz (1.23 FB voltage)
 F https://datasheet.lcsc.com/szlcsc/XI-AN-Aerosemi-Tech-MT3540-F23_C181783.pdf
 $ENDCMP
 #
+$CMP SGM4552YN6G
+F https://datasheet.lcsc.com/szlcsc/1907221504_SGMICRO-SGM4552YN6G-TR_C398237.pdf
+$ENDCMP
+#
 $CMP SPV1040
 F https://www.st.com/resource/en/datasheet/spv1040.pdf
 $ENDCMP
