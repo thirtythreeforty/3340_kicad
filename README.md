@@ -21,4 +21,4 @@ Unless otherwise specified, all symbols and footprints are released under the **
 
 This is the same [license that KiCAD uses][kicad-license] for their component library.
 
-[kicad-license]: https://kicad-pcb.org/libraries/license/
+[kicad-license]: https://kicad.org/libraries/license/
