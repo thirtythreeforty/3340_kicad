@@ -10,6 +10,7 @@ The library includes schematic symbols and PCB footprints for:
 - **JW5211** buck regulator
 - **MT3540** boost regulator
 - **SGM4552YN6G** level shifter
+- **SM-LP-5001E** audio transformer
 - **SPV1040** battery charger
 
 
